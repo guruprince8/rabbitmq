@@ -1,0 +1,7 @@
+https://www.rabbitmq.com/install-debian.html#apt-cloudsmith
+
+https://rabbitmq.com/management.html
+
+http://us2west-a.local:15672/#/
+
+https://stackoverflow.com/questions/23669780/rabbitmq-3-3-1-can-not-login-with-guest-guest
